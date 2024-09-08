@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white; 
+    font-family: "Protest Guerrilla", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: white;
+    color: black;
+    font-family: "Protest Guerrilla", sans-serif;
+    size: 300px;
+}
